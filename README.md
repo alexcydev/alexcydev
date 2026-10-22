@@ -4,6 +4,13 @@
 
 🎓 **Estudiante de Computación e Informática**, enfocado en el desarrollo de software y en aplicar lo aprendido mediante proyectos.
 
+<a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
+  <img 
+    width="450px" 
+    alt="Matrix" 
+    src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+</a>
+
 Uso GitHub como espacio para documentar mi aprendizaje, desarrollar proyectos y construir un portafolio que refleje mi crecimiento técnico y profesional.
 
 </div>
@@ -34,8 +41,8 @@ Uso GitHub como espacio para documentar mi aprendizaje, desarrollar proyectos y 
 
 **Control de versiones y herramientas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **IDEs y editores**
 
