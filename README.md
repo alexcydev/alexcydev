@@ -49,13 +49,3 @@ Aplico mis conocimientos mediante proyectos prácticos y documento mi avance té
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-3b82f6?style=flat-square&logo=spaceship&logoColor=white)
-
----
-
-### 📂 Proyectos
-Mis repositorios incluyen principalmente:
-
-- Proyectos académicos desarrollados y adaptados de manera individual  
-- Proyectos personales enfocados en aplicar y consolidar conocimientos  
-- Mejoras continuas que reflejan la evolución de mis habilidades técnicas  
-
