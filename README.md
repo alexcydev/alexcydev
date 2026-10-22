@@ -2,8 +2,7 @@
 
 ## Hola, soy Alex 👋
 
-**Estudiante de Computación e Informática.** <br>
-Me enfoco en el desarrollo de software y bases de datos. <br>
+**Estudiante de Computación e Informática.** Me enfoco en el desarrollo de software y bases de datos. <br>
 Aplico mis conocimientos mediante proyectos prácticos y documento mi avance técnico en este espacio.
 
 <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
