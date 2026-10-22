@@ -54,9 +54,3 @@ Mis repositorios incluyen principalmente:
 - Proyectos personales enfocados en aplicar y consolidar conocimientos  
 - Mejoras continuas que reflejan la evolución de mis habilidades técnicas  
 
----
-
-### 🎯 Objetivos actuales
-- Desarrollar software con buenas prácticas, código limpio y documentación clara  
-- Aprender desarrollo móvil de forma autodidacta y publicar mi primera app en Play Store
-- Continuar mi formación hacia la ingeniería de software como siguiente etapa profesional
