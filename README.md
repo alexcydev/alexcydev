@@ -2,7 +2,9 @@
 
 ## Hola, soy Alex 👋
 
-🎓 **Estudiante de Computación e Informática**, enfocado en el desarrollo de software y en aplicar lo aprendido mediante proyectos.
+**Estudiante de Computación e Informática.** <br>
+Me enfoco en el desarrollo de software y bases de datos. <br>
+Aplico mis conocimientos mediante proyectos prácticos y documento mi avance técnico en este espacio.
 
 <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
   <img 
@@ -10,8 +12,6 @@
     alt="Matrix" 
     src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </a>
-
-Uso GitHub como espacio para documentar mi aprendizaje, desarrollar proyectos y construir un portafolio que refleje mi crecimiento técnico y profesional.
 
 </div>
 
