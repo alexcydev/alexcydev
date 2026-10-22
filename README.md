@@ -18,10 +18,9 @@ Aplico mis conocimientos mediante proyectos prácticos y documento mi avance té
 
 ### 👨‍💻 Sobre mí 
 
-- 🧠 Aprendizaje orientado a proyectos académicos y personales 
-- 🧩 Gusto por la planificación y estructura antes de escribir código, priorizando un diseño claro desde el inicio
-- 🖥️ Interés en el desarrollo móvil y de escritorio, con proyección hacia la ingeniería de software
-- 📚 Iniciativa para explorar y aplicar tecnologías más allá del entorno académico
+- Enfoque práctico: Aprendizaje constante a través de proyectos personales y académicos.
+- Metodología: Planificación y estructuración lógica antes de escribir código.
+- Área de interés: Desarrollo móvil y de escritorio, con miras hacia la ingeniería de software.
 
 ---
 
