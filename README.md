@@ -51,7 +51,6 @@ Aplico mis conocimientos mediante proyectos prácticos y documento mi avance té
 
 ---
 
----
 <div align="center">
-  <em>“Rather be dead than cool”</em>
+  **“Rather be dead than cool”**
 </div>
