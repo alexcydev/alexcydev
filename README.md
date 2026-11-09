@@ -33,7 +33,7 @@ Aplico mis conocimientos mediante proyectos prácticos y documento mi avance té
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-9B59D0?style=flat&logo=csharp&logoColor=white)
 
 **Control de versiones y herramientas**
